@@ -3,8 +3,8 @@ Checkmarx cli integration
 
 ## Requirements
  
- Python 3.6+ with supported pip
- ReactJs & ChartJs latest version
+- Python 3.6+ with supported pip
+- ReactJs & ChartJs latest version
 
  ## Checkmarx cli
 
