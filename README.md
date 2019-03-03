@@ -4,6 +4,7 @@ Checkmarx cli integration
 ## Requirements
  
  Python 3.6+ with supported pip
+ ReactJs & ChartJs latest version
 
  ## Checkmarx cli
 
@@ -50,4 +51,5 @@ source venv/bin/activate
 - the report api can be access using: http://127.0.0.1:5000/report
 
 ### To access the dashboard to view the report
-- just open the index.html in any browser after you have started the api server successfully
+- Just open the index.html in any browser after you have started the api server successfully
+- The dashboard makes use of ReactJs & ChartJs.
